@@ -4,3 +4,4 @@ apic:
       vrfs:
         - name: VRF1
         - name: VRF2
+        - name: VRF3
